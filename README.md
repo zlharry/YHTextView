@@ -17,7 +17,7 @@ YHTextView is available through [CocoaPods](https://cocoapods.org). To install
 it, simply add the following line to your Podfile:
 
 ```ruby
-pod 'YHTextView'
+pod 'YHTextView', :git => 'https://github.com/zlharry/YHTextView.git'
 ```
 
 ## Author
