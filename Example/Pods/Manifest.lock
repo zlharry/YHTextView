@@ -1,0 +1,27 @@
+PODS:
+  - Expecta (1.0.6)
+  - Specta (1.0.7)
+  - YHTextView (0.1.0)
+
+DEPENDENCIES:
+  - Expecta
+  - Specta
+  - YHTextView (from `../`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Expecta
+    - Specta
+
+EXTERNAL SOURCES:
+  YHTextView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Expecta: 3b6bd90a64b9a1dcb0b70aa0e10a7f8f631667d5
+  Specta: 3e1bd89c3517421982dc4d1c992503e48bd5fe66
+  YHTextView: c763064de30bdae78cfaca646e3d1342d445fb1a
+
+PODFILE CHECKSUM: b05306b3cc44ee5d60441fb0c83d5888485041b6
+
+COCOAPODS: 1.6.2
